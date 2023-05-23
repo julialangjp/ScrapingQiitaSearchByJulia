@@ -27,4 +27,4 @@ TSV形式：行に一組の見出しとURLがTAB区切りで格納されます�
 
 ## 参照
 　次のページに簡単な解説を書きました。  
-　　  [スクレイピング(3)：Qiitaの検索ページからJuliaタグ最新記事のリンクとタイトルを取得(julialang.jp)](https://julialang.jp/2022/04/18/scraping_qiita2/)
+　　  [スクレイピング(3)：Qiitaの検索ページからJuliaタグ最新記事のリンクとタイトルを取得](https://leadinge.co.jp/julialang/2022/04/18/scraping_qiita2/)
